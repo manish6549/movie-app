@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import './App.css';
 import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
@@ -22,7 +22,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>MovieLand</h1>
+      <h1>MovieSpace</h1>
 
       <div className="search">
         <input
