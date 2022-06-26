@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/manish6549/movie-app.git/static/css/main.334bdeb1.css",
+    "main.js": "/manish6549/movie-app.git/static/js/main.d7ece7f4.js",
+    "index.html": "/manish6549/movie-app.git/index.html",
+    "static/media/search.svg": "/manish6549/movie-app.git/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/manish6549/movie-app.git/static/css/main.334bdeb1.css.map",
+    "main.d7ece7f4.js.map": "/manish6549/movie-app.git/static/js/main.d7ece7f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.d7ece7f4.js"
+  ]
+}
